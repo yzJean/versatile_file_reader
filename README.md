@@ -1,4 +1,5 @@
-# csv_reader
+# Versatile File Reader
+Mainly for csv file at this moment.
 
 ## Build
 ```
